@@ -2,12 +2,8 @@
 
 Project ID: `auslandische-casinos`
 
-Default Hosting domains after Firebase Hosting is enabled:
-
-- `https://auslandische-casinos.web.app/`
-- `https://auslandische-casinos.firebaseapp.com/`
-
-SEO canonical is set to `https://auslandische-casinos.web.app/`.
+Firebase Hosting may expose the same deployment through more than one default hosting hostname.
+The site files intentionally do not hardcode a preferred hosting domain or canonical URL.
 
 ## Repository structure
 
